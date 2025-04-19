@@ -8,25 +8,25 @@ const services = [
     {
         num: '01',
         title: 'Web Development',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+        description: 'Building scalable and responsive web applications using modern frontend and backend technologies.',
         href: ''
     },
     {
         num: '02',
         title: 'UI/UX Design',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+        description: 'Crafting intuitive and engaging user interfaces with a focus on user experience and accessibility.',
         href: ''
     },
     {
         num: '03',
-        title: 'Logo Design',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+        title: 'Website Maintenance & Support',
+        description: 'Ongoing support, updates, and fixes to keep your site secure and up to date.',
         href: ''
     },
     {
         num: '04',
-        title: 'SEO',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+        title: 'API Integration & Backend Services',
+        description: 'Connecting your frontend with REST or GraphQL APIs, databases, and third-party services.',
         href: ''
     },
 ]

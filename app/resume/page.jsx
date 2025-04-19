@@ -9,7 +9,7 @@ import { motion } from 'framer-motion'
 
 const about = {
     title: 'About me',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum necessitatibus obcaecati nobis.',
+    description: 'I am a passionate and detail-oriented Web Developer with a strong foundation in front-end technologies and a growing interest in full-stack development. I enjoy creating responsive, user-friendly websites and am always eager to learn and improve.',
     info: [
         {
             fieldName: 'Name',
@@ -49,27 +49,27 @@ const about = {
 const experience = {
     icon: '/assets/resume/badge.svg',
     title: 'My Experience',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum necessitatibus obcaecati nobis.',
+    description: 'Passionate and adaptable developer with hands-on experience in web technologies and real-world projects.',
     items: [
         {
-            company: 'Tech Solutions',
-            position: 'Full Stack Developer',
-            duration: '2022 - present'
+            company: 'Freelancing',
+            position: 'Self',
+            duration: '2025 - Present'
         },
         {
-            company: 'Design Studio',
-            position: 'Front-End Developer Intern',
-            duration: 'Winter 2021'
+            company: 'Simplex Solutions',
+            position: 'Front-End Developer',
+            duration: 'August 2023 - December 2024'
         },
         {
-            company: 'E-commerce Startup',
-            position: 'Freelance Web Developer',
-            duration: '2020 - 2021'
+            company: 'Millennium System Solutions',
+            position: 'Associate Web Developer',
+            duration: '2022 - June  2023'
         },
         {
-            company: 'E-Tech Academy',
-            position: 'Teaching Assistant',
-            duration: '2019 - 2020'
+            company: 'Onirban Bangladesh',
+            position: 'Teachical Assistant',
+            duration: '2021 - 2022'
         },
     ],
 }
@@ -77,39 +77,39 @@ const experience = {
 const education = {
     icon: '/assets/resume/cap.svg',
     title: 'My Education',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum necessitatibus obcaecati nobis.',
+    description: 'Dedicated to continuous learning with a strong foundation in computer science and modern web technologies.',
     items: [
         {
-            institution: 'Online Course Platform',
-            degree: 'Full Stack Web Development Bootcamp',
-            duration: '2023'
+            institution: 'Phitron',
+            degree: 'Programming Course',
+            duration: 'Present'
         },
         {
-            institution: 'Codeacademy',
-            degree: 'Front-end Track',
+            institution: 'Programing Hero',
+            degree: 'Web Development with SQL',
             duration: '2022'
         },
         {
-            institution: 'Online Course',
-            degree: 'Programming Course',
+            institution: 'Programing Hero',
+            degree: 'Web Development with NoSQL',
             duration: '2020 - 2021'
         },
         {
-            institution: 'Tech Institute',
-            degree: 'Certified Web Developer',
+            institution: 'Web Code Institute',
+            degree: 'Certified Web Designer',
             duration: '2019'
         },
         {
-            institution: 'Design School',
-            degree: 'Diploma in Grapic School',
-            duration: '2016 - 2018'
+            institution: 'National University Bangladesh',
+            degree: 'Computer Science & Engineering',
+            duration: '2014 - 2018'
         },
     ]
 }
 
 const skills = {
     title: 'My skills',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum necessitatibus obcaecati nobis.',
+    description: 'Proficient in a wide range of technologies, frameworks, and tools used in modern web development and UI/UX design.',
     skillList: [
         {
             icon: <FaHtml5 />,

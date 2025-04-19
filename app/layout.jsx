@@ -1,4 +1,5 @@
 import { JetBrains_Mono } from "next/font/google";
+import { Toaster } from 'sonner'
 import "./globals.css";
 import Header from "@/components/Header";
 import PageTransition from "@/components/PageTransition";
@@ -25,6 +26,7 @@ export default function RootLayout({ children }) {
         <StairTransition />
         <PageTransition>
           {children}
+          <Toaster richColors position="top-center" />
         </PageTransition>
       </body>
     </html>
