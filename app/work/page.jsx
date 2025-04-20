@@ -13,43 +13,43 @@ import WorkSliderBtns from '@/components/WorkSliderBtns';
 const projects = [
     {
         num: '01',
-        category: 'frontend',
+        category: 'fullstack',
         title: 'project 01',
-        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure ut ipsum quaerat.',
-        stack: [{ name: 'Html 5' }, { name: 'Css 3' }, { name: 'Javascript' }],
-        image: '/assets/work/thumb1.jpg',
-        live: '',
-        github: ''
+        description: 'A Full-stack car reservation system, allowed users to book slots for existing services.',
+        stack: [{ name: 'Next.js' }, { name: 'Tailwind.css' }, { name: 'Express.js' }, { name: 'Redux' }],
+        image: '/assets/work/thumb9.webp',
+        live: 'https://car-collection-reservation-frontend.vercel.app',
+        github: 'https://github.com/Taiyob/car-reservation-client'
     },
     {
         num: '02',
         category: 'fullstack',
         title: 'project 02',
-        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure ut ipsum quaerat.',
-        stack: [{ name: 'Next.js' }, { name: 'Tailwind.css' }, { name: 'Node.js' }],
-        image: '/assets/work/thumb2.jpg',
-        live: '',
-        github: ''
+        description: 'A Full-stack food-sharing web application that allows users to order food, share home-cooked meals, and donate surplus food.',
+        stack: [{ name: 'React.js' }, { name: 'Tailwind.css' }, { name: 'Javascript' }, { name: 'Express.js' }],
+        image: '/assets/work/thumb6.png',
+        live: 'https://bistro-boss-fd747.web.app/',
+        github: 'https://github.com/Taiyob/bistro-client'
     },
     {
         num: '03',
         category: 'frontend',
         title: 'project 03',
-        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure ut ipsum quaerat.',
-        stack: [{ name: 'Next.js' }, { name: 'Tailwind.css' }],
-        image: '/assets/work/thumb3.jpeg',
-        live: '',
-        github: ''
+        description: 'This short application appears to be an e-commerce platform offering various products such as kitchenware, sportswear, and furniture',
+        stack: [{ name: 'Html' }, { name: 'Tailwind.css' }, { name: 'Javascript' }],
+        image: '/assets/work/thumb10.webp',
+        live: 'https://luminous-taiyaki-e63c00.netlify.app/',
+        github: 'https://github.com/Programming-Hero-Web-Course4/b8a5-summer-sale-Taiyob'
     },
     {
         num: '04',
-        category: 'frontend',
+        category: 'fullstack',
         title: 'project 04',
-        description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure ut ipsum quaerat.',
-        stack: [{ name: 'Html 5' }, { name: 'Css 3' }, { name: 'Javascript' }],
-        image: '/assets/work/thumb4.jpg',
-        live: '',
-        github: ''
+        description: "Jerin's Parlour, a beauty salon platform designed for women.",
+        stack: [{ name: 'React.js' }, { name: 'Taildwind.cs' }, { name: 'Javascript' }],
+        image: '/assets/work/thumb8.png',
+        live: 'https://fitness-5016e.web.app',
+        github: 'https://github.com/Taiyob/parlor-client'
     },
 ]
 
